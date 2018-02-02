@@ -1,0 +1,9 @@
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\bin\Debug\RenkCümbüşü.exe.config
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\bin\Debug\RenkCümbüşü.exe
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\bin\Debug\RenkCümbüşü.pdb
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.csprojResolveAssemblyReference.cache
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.Form1.resources
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.Properties.Resources.resources
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.csproj.GenerateResource.Cache
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.exe
+c:\users\everest\documents\visual studio 2013\Projects\RenkCümbüşü\RenkCümbüşü\obj\Debug\RenkCümbüşü.pdb
